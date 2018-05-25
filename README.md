@@ -10,7 +10,12 @@
 
 ### Topic & Description
 
+* Topic: Phising web classification
+* Method ?
+
 ### Github Repository
+
+[https://github.com/OnyxzeD/ai-project](https://github.com/OnyxzeD/ai-project)
 
 ## Group II
 
@@ -22,7 +27,12 @@
 
 ### Topic & Description
 
+* Topic: Fishery assessment
+* Method: Naive Bayes
+
 ### Github Repository
+
+[https://github.com/aldiarema91/Final-Project-AI](https://github.com/aldiarema91/Final-Project-AI)
 
 ## Group III
 
@@ -34,7 +44,12 @@
 
 ### Topic & Description
 
+* Topic: Network troubleshooting
+* Method: Decision Tree
+
 ### Github Repository
+
+[https://github.com/nadyaryota/projectAI](https://github.com/nadyaryota/projectAI)
 
 ## Group IV
 
@@ -43,10 +58,14 @@
 * (151111053) Teguh Hidayanto
 * (151111125) M Hafid Bahrul M
 
-
 ### Topic & Description
 
+Topic: Blood Pressure
+Method: Linear Regression
+
 ### Github Repository
+
+[https://github.com/teguhhidayanto/ai_project](https://github.com/teguhhidayanto/ai_project)
 
 ## Group V
 
@@ -57,6 +76,9 @@
 * (161111014) Andri Aryanto Doke
 
 ### Topic & Description
+
+* Topic: Ballon <-- topic still unclear
+* Method: Decision Tree
 
 ### Github Repository
 
@@ -69,7 +91,12 @@
 
 ### Topic & Description
 
+* Iris Dataset
+* Classification KNN
+
 ### Github Repository
+
+[https://github.com/VandaRos/Iris-classification](https://github.com/VandaRos/Iris-classification)
 
 ## Group VII
 
@@ -80,7 +107,11 @@
 
 ### Topic & Description
 
+* Topic: Donor assessment classification
+* Method: 
+
 ### Github Repository
+
 
 ## Group VIII
 
@@ -89,9 +120,15 @@
 * (161111077) Galih anggi satriawan
 * (161111016) T abdul rozak
 * (161111028) M Rizki mahmudi
+
 ### Topic & Description
 
+* Topic: Teaching process assignment
+* Method: K-Means
+
 ### Github Repository
+
+[https://github.com/galihsatriawan/Final-Project-of-Artificial-Intelligence](https://github.com/galihsatriawan/Final-Project-of-Artificial-Intelligence)
 
 ## Group IX
 
@@ -99,18 +136,18 @@
 
 * (161111021) Kevin Surya
 * (161111053) Fajarin F L
+* (161111003) Imas Kurniawan 
 
 ### Topic & Description
 
 ### Github Repository
 
-## Group X
+# Group IX
 
 ## Members
 
-* (161111003) Imas Kurniawan 
-* 
+* (161111035) Arif Widi Atmaja
+* (161111010) Debi Nawang Sari
+* (161111002) Renaldi Bilal Susanto
 
-### Topic & Description
 
-### Github Repository

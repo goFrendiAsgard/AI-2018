@@ -77,10 +77,12 @@ Method: Linear Regression
 
 ### Topic & Description
 
-* Topic: Ballon <-- topic still unclear
+* Topic: Huberman's survival data set
 * Method: Decision Tree
 
 ### Github Repository
+
+[https://github.comRevin1506/Tugas_AI](https://github.comRevin1506/Tugas_AI)
 
 ## Group VI
 

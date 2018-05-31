@@ -152,6 +152,10 @@ Method: Linear Regression
 
 * (161111035) Arif Widi Atmaja
 * (161111010) Debi Nawang Sari
-* (161111002) Renaldi Bilal Susanto
+* (161111002) Renaldi Bilal Setiawan
+
+### Topic & Description
+
+### Github Repository
 
 
